@@ -1,0 +1,2 @@
+# Library-Management-System
+Library Management System is a systematic way of managing the movement of books and maintaining students’ data for library. The project is developed in PHP, which mainly focuses on three components – Student, Book issue, and Book return. It consists of several modules for adding new student (admission), student list, adding new book, book list, issuing book, issue list, updating stock, returning book and return list.
